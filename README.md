@@ -4,15 +4,13 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=mubashir+ejaz;Web+Application+Developer;Mobile+Application+Developer;&center=true&width=500&height=50"></a>
 </p>
-I have 3+ years of experience in web and mobile application development. I have strong technical skills as well as strong communication skills. Over the years I have developed several Native and Hybrid Applications in various industry verticals including Fintech, Social, Chat, Restaurants, and Loyalty systems to name a few.
+I have 3+ years of experience in web and mobile application development. I have strong technical skills as well as strong communication skills. Over the years I have developed several Native and Hybrid Applications in various industry verticals including Fintech, Social, Chat, Restaurants, and Loyalty systems.
 
 Regards
 Mubashir
+
 <div align="center">
-
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sheikhmubashi&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
 </div>
 
 <h3>Things I code with</h3>
