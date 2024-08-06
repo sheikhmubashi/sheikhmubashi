@@ -68,3 +68,5 @@ Mubashir
     <img height='25px' alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
     <img height='25px' alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhmubashi&show_icons=true&locale=en&layout=compact" alt="sheikhmubashi" /></p>
