@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=mubashir+ejaz;Web+Application+Developer;Mobile+Application+Developer;&center=true&width=500&height=50"></a>
 </p>
-I have 3+ years of experience in web and mobile application development. I have strong technical skills as well as strong communication skills. Over the years I have developed several Native and Hybrid Applications in various industry verticals including Fintech, Social, Chat, Restaurants, and Loyalty systems.
+I have 2+ years of experience in web and mobile application development. I have strong technical skills as well as strong communication skills. Over the years I have developed several Native and Hybrid Applications in various industry verticals including Fintech, Social, Chat, Restaurants, and Loyalty systems.
 
 <div>
 
