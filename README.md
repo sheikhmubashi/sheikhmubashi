@@ -28,8 +28,10 @@ Mubashir
 <a href="https://x.com/sheikh_mubashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheikhmubashi" height="30" width="40" /></a>
 <a href="https://medium.com/@smubashir655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sheikhmubashi" height="30" width="40" /></a>
 </p>
-
+<div align="center">
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sheikhmubashi&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+</div>
 
 </div>
 
