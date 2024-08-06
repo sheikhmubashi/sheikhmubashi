@@ -6,9 +6,6 @@
 </p>
 I have 3+ years of experience in web and mobile application development. I have strong technical skills as well as strong communication skills. Over the years I have developed several Native and Hybrid Applications in various industry verticals including Fintech, Social, Chat, Restaurants, and Loyalty systems.
 
-Regards
-Mubashir
-
 <div>
 
 - 🌱 I’m currently learning **Python, Django, DevOps, and Cloud Engineering**
