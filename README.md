@@ -12,19 +12,17 @@ I have 3+ years of experience in web and mobile application development. I have 
 
 - 👨‍💻 All of my projects are available at [https://sheikhmubashir.com/](https://sheikhmubashir.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@smubashir655](https://medium.com/@smubashir655)
-
 - 💬 Ask me about **JavaScript, TypeScript, ReactJS, NodeJS, ExpressJS, MongoDB, Firebase, GraphQL, AWS, Jest, Cypress**
 
 - 📫 How to reach me **m.mubashirejaz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/mubashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sheikhmubashir" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sheikhmubashir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheikhmubashi" height="30" width="40" /></a>
-<a href="https://x.com/sheikh_mubashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheikhmubashi" height="30" width="40" /></a>
-<a href="https://medium.com/@smubashir655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sheikhmubashi" height="30" width="40" /></a>
+  <a href="https://x.com/sheikh_mubashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheikhmubashi" height="30" width="40" /></a>
+  <a href="https://medium.com/@smubashir655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sheikhmubashi" height="30" width="40" /></a>
 </p>
+<a href="https://dev.to/mubashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sheikhmubashir" height="30" width="40" /></a>
 <div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sheikhmubashi&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
@@ -38,6 +36,7 @@ I have 3+ years of experience in web and mobile application development. I have 
   <img height='25px' alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 
 
+  <img height='25px' alt="React" src="https://img.shields.io/badge/-Next.js-45b8d8?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img height='25px' alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img height='25px' alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
   <img height='25px' alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
