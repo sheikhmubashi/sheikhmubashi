@@ -9,7 +9,7 @@ I have 3+ years of experience in web and mobile application development. I have 
 Regards
 Mubashir
 
-<div align="center">
+<div>
 
 - 🌱 I’m currently learning **Python, Django, DevOps, and Cloud Engineering**
 
