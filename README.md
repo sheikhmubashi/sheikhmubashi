@@ -16,8 +16,6 @@ I have 3+ years of experience in web and mobile application development. I have 
 
 - 📫 How to reach me **m.mubashirejaz@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhmubashi&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhmubashi" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikhmubashi" alt="sheikhmubashi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
