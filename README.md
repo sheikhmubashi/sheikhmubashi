@@ -6,7 +6,6 @@
 </p>
 I have 3+ years of experience in web and mobile application development. I have strong technical skills as well as strong communication skills. Over the years I have developed several Native and Hybrid Applications in various industry verticals including Fintech, Social, Chat, Restaurants, and Loyalty systems.
 
-<div>
 
 - 🌱 I’m currently learning **Python, Django, DevOps, and Cloud Engineering**
 
@@ -15,8 +14,11 @@ I have 3+ years of experience in web and mobile application development. I have 
 - 💬 Ask me about **JavaScript, TypeScript, ReactJS, NodeJS, ExpressJS, MongoDB, Firebase, GraphQL, AWS, Jest, Cypress**
 
 - 📫 How to reach me **m.mubashirejaz@gmail.com**
+### :fire: My Stats :
+<a><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikhmubashi&theme=zenburn" alt="Profile card" width="100%" height="auto"></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikhmubashi" alt="sheikhmubashi" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/sheikhmubashir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheikhmubashi" height="30" width="40" /></a>
   <a href="https://x.com/sheikh_mubashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheikhmubashi" height="30" width="40" /></a>
@@ -24,16 +26,13 @@ I have 3+ years of experience in web and mobile application development. I have 
   <a href="https://dev.to/mubashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sheikhmubashir" height="30" width="40" /></a>
 </p>
 
-### :fire: My Stats :
-<a><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikhmubashi&theme=zenburn" alt="Profile card" width="100%" height="auto"></a>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikhmubashi" alt="sheikhmubashi" /></a> </p>
-
-<div align="center">
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sheikhmubashi&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-</div>
-
-
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=sheikhmubashi&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhmubashi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  
 </div>
 
 <h3>Things I code with</h3>
@@ -70,5 +69,3 @@ I have 3+ years of experience in web and mobile application development. I have 
     <img height='25px' alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
     <img height='25px' alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhmubashi&show_icons=true&locale=en&layout=compact" alt="sheikhmubashi" /></p>
