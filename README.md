@@ -14,9 +14,6 @@ I have 3+ years of experience in web and mobile application development. I have 
 - 💬 Ask me about **JavaScript, TypeScript, ReactJS, NodeJS, ExpressJS, MongoDB, Firebase, GraphQL, AWS, Jest, Cypress**
 
 - 📫 How to reach me **m.mubashirejaz@gmail.com**
-### :fire: My Stats :
-<a><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikhmubashi&theme=zenburn" alt="Profile card" width="100%" height="auto"></a>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikhmubashi" alt="sheikhmubashi" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -26,7 +23,11 @@ I have 3+ years of experience in web and mobile application development. I have 
   <a href="https://dev.to/mubashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sheikhmubashir" height="30" width="40" /></a>
 </p>
 
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+### :fire: My Stats :
+<a><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikhmubashi&theme=zenburn" alt="Profile card" width="100%" height="auto"></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikhmubashi" alt="sheikhmubashi" /></a> </p>
+
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; width: 100%;">
   
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=sheikhmubashi&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
