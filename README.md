@@ -15,7 +15,8 @@ I have 3+ years of experience in web and mobile application development. I have 
 - 💬 Ask me about **JavaScript, TypeScript, ReactJS, NodeJS, ExpressJS, MongoDB, Firebase, GraphQL, AWS, Jest, Cypress**
 
 - 📫 How to reach me **m.mubashirejaz@gmail.com**
-
+### :fire: My Stats :
+<a><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikhmubashi&theme=zenburn" alt="Profile card" width="100%" height="auto"></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikhmubashi" alt="sheikhmubashi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
